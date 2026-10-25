@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+<<<<<<< HEAD:GraphQL/.idea/vcs.xml
+=======
+<<<<<<< HEAD
+>>>>>>> 7da706194a895e4e1dd897801fc8bbfeab3a191f:Gestion_UE_Etudiant/.idea/vcs.xml
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+    <mapping directory="" vcs="Git" />
+>>>>>>> c24ef6f34c57327cd45cb1dd2b29eff8bed378df
+  </component>
+</project>
